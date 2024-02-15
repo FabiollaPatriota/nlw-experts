@@ -1,8 +1,7 @@
 # NLW - Experts
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas:
 
 - HTML
 - CSS
 - JavaScript
-- Github
